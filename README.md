@@ -1,13 +1,8 @@
-<img width="3968" height="2240" alt="IMG_20260610_213112" src="https://github.com/user-attachments/assets/a1f40d22-7ce4-48b0-b4e2-f8cd38220407" />
-<img width="3968" height="2240" alt="IMG_20260610_213028" src="https://github.com/user-attachments/assets/27f421b0-e13e-416c-a18d-586b6461db5e" />
-<img width="3968" height="2240" alt="IMG_20260610_212825" src="https://github.com/user-attachments/assets/b20861af-c21b-4e93-95f4-24e8e12524a1" />
-<img width="3968" height="2240" alt="IMG_20260610_213112 (1)" src="https://github.com/user-attachments/assets/3c79f4c8-5209-48c2-baa1-0ad576086336" />
-
 ## Excel Sales Analysis Project
 
 ## Project Overview
 
-This project analyzes sales performance for Nwa Electronics Ltd using Microsoft Excel.
+This project analyzes sales performance for Okenwa Electronics Ltd using Microsoft Excel.
 
 The goal was to identify key sales trends, top-performing products, regions, and salespeople while presenting insights through an interactive dashboard.
 
@@ -39,7 +34,9 @@ The goal was to identify key sales trends, top-performing products, regions, and
 
 ## Dashboard
 
-(Insert dashboard screenshot here)
+<img width="3968" height="2240" alt="IMG_20260610_213117" src="https://github.com/user-attachments/assets/471917b1-724b-42ee-9193-d1d137652722" />
+<img width="3968" height="2240" alt="IMG_20260610_213028" src="https://github.com/user-attachments/assets/f38afe32-4170-4586-84a6-c36e1a0ce089" />
+
 
 ## Recommendations
 
